@@ -6,9 +6,10 @@
 
   (title_block
     (title "Unbalanced to Balanced Audio Converter")
-    (date "2022-06-11")
-    (rev "0")
+    (date "${DATE}")
+    (rev "${VERSION}")
     (company "G. Keeth")
+    (comment 1 "${URL}")
     (comment 3 "fits Adafruit 2230 enclosure")
   )
 
@@ -2826,7 +2827,7 @@
     (uuid 35496eef-8204-4ddc-9f1a-bc2d69ec9952)
     (property "Reference" "C7" (id 0) (at 266.7 69.85 90))
     (property "Value" "220u" (id 1) (at 266.7 72.39 90))
-    (property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm" (id 2) (at 270.51 76.5048 0)
+    (property "Footprint" "Capacitor_THT_gkeeth:C_Radial_D12.5mm_H20.0mm_P5.00mm_Horizontal" (id 2) (at 270.51 76.5048 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 266.7 77.47 0)
@@ -3428,7 +3429,7 @@
     (uuid c580afc4-5a6f-448f-9b88-86107feccdc1)
     (property "Reference" "C8" (id 0) (at 266.7 119.38 90))
     (property "Value" "220u" (id 1) (at 266.7 121.92 90))
-    (property "Footprint" "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm" (id 2) (at 270.51 126.0348 0)
+    (property "Footprint" "Capacitor_THT_gkeeth:C_Radial_D12.5mm_H20.0mm_P5.00mm_Horizontal" (id 2) (at 270.51 126.0348 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 266.7 127 0)
@@ -3842,10 +3843,10 @@
       (reference "C6") (unit 1) (value "100p") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/35496eef-8204-4ddc-9f1a-bc2d69ec9952"
-      (reference "C7") (unit 1) (value "220u") (footprint "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm")
+      (reference "C7") (unit 1) (value "220u") (footprint "Capacitor_THT_gkeeth:C_Radial_D12.5mm_H20.0mm_P5.00mm_Horizontal")
     )
     (path "/c580afc4-5a6f-448f-9b88-86107feccdc1"
-      (reference "C8") (unit 1) (value "220u") (footprint "Capacitor_THT:C_Radial_D12.5mm_H25.0mm_P5.00mm")
+      (reference "C8") (unit 1) (value "220u") (footprint "Capacitor_THT_gkeeth:C_Radial_D12.5mm_H20.0mm_P5.00mm_Horizontal")
     )
     (path "/f91439e2-323e-4ecd-a6ad-92a4549f1cba"
       (reference "C9") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
