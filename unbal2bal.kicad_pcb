@@ -4941,7 +4941,7 @@
   (gr_text "Unbalanced-to-Balanced Audio Converter\nG. Keeth\nr${VERSION}\n2022-06-11" (at 107 91) (layer "F.SilkS") (tstamp b6e897bb-f65c-4021-a83b-b7ace4e3275c)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "TODO\n- testpoints" (at 218 72) (layer "Cmts.User") (tstamp 43f28122-58c4-446a-8b49-02f1756dc5bd)
+  (gr_text "TODO\n- testpoints\n- think about RCA grounding\n- check that capacitors fit" (at 218 72) (layer "Cmts.User") (tstamp 43f28122-58c4-446a-8b49-02f1756dc5bd)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 6f4ee8a9-ab22-4c4e-a83c-4f772456d814)
