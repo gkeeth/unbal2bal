@@ -404,6 +404,9 @@
         "microvia_drill": 0.1,
         "name": "signal",
         "nets": [
+          "/cold_out",
+          "/hot_out",
+          "/unbal_in",
           "GND",
           "Net-(C1-Pad1)",
           "Net-(C4-Pad2)",
@@ -412,10 +415,7 @@
           "Net-(C6-Pad1)",
           "Net-(C6-Pad2)",
           "Net-(C7-Pad1)",
-          "Net-(C7-Pad2)",
-          "Net-(C8-Pad1)",
-          "Net-(C8-Pad2)",
-          "Net-(J1-PadT)"
+          "Net-(C8-Pad1)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
