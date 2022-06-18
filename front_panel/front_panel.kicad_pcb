@@ -81,9 +81,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "../fab/front_panel/")
     )
   )
 
@@ -7129,6 +7129,9 @@
   (gr_line locked (start 134.2 105.3) (end 134.2 83.5) (layer "Edge.Cuts") (width 0.2) (tstamp eb1def1d-438d-4cbb-9ce8-22315ff4153e))
   (gr_text "JLCJLCJLCJLC" (at 180 107) (layer "B.SilkS") (tstamp 51bf0542-9763-46f1-947d-4e991d2fef38)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "unbal2bal front_panel r0\ngithub.com/gkeeth/unbal2bal\n2022-06-17" (at 190 103) (layer "B.SilkS") (tstamp e5fa549e-6fdf-4d79-86a2-121b60755892)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
   )
 
   (zone (net 1) (net_name "GND") (layers F&B.Cu) (tstamp a6fd0e83-9155-4447-8d5e-4303e1e2e1c4) (hatch edge 0.508)
