@@ -121,6 +121,7 @@
       "track_widths": [
         0.0,
         0.25,
+        0.5,
         1.0,
         5.0
       ],
@@ -486,7 +487,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2022-06-12",
+    "DATE": "2022-06-17",
     "URL": "github.com/gkeeth/unbal2bal",
     "VERSION": "0"
   }
