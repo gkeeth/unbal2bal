@@ -5221,7 +5221,7 @@
   (gr_text "Unbalanced-to-Balanced Audio Converter\nG. Keeth\nr${VERSION}\n${DATE}\n${URL}" (at 107 91) (layer "F.SilkS") (tstamp b6e897bb-f65c-4021-a83b-b7ace4e3275c)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "TODO\n\n3d model for NRJ3HF-1\nadd front panel grounding ring to 1/4{dblquote} jack front panel?\nDouble check horizontal position of 1/4{dblquote} jack" (at 226.5 91.5) (layer "Cmts.User") (tstamp e62e2268-38ea-4c55-9381-96d789e6c577)
+  (gr_text "TODO\n\n3d model for NRJ3HF-1" (at 226.5 91.5) (layer "Cmts.User") (tstamp e62e2268-38ea-4c55-9381-96d789e6c577)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 6f4ee8a9-ab22-4c4e-a83c-4f772456d814)
