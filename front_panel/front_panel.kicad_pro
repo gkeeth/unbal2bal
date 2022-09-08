@@ -424,5 +424,8 @@
     "subpart_id_separator": 0
   },
   "sheets": [],
-  "text_variables": {}
+  "text_variables": {
+    "date": "2022-09-07",
+    "rev": "2"
+  }
 }
