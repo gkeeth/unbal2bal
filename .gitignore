@@ -1,4 +1,7 @@
 fp-info-cache
+fab/
 *.kicad_prl
 *-backups/
 *.FCStd1
+*_bak/
+labels/*.kicad_mod
