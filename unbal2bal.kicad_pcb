@@ -97,7 +97,7 @@
 
   (property "DATE" "2022-10-08")
   (property "URL" "github.com/gkeeth/unbal2bal")
-  (property "VERSION" "3")
+  (property "VERSION" "2")
 
   (net 0 "")
   (net 1 "Net-(C1-Pad1)")
@@ -5236,9 +5236,6 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "Unbalanced-to-Balanced Audio Converter\nG. Keeth\nr${VERSION}\n${DATE}\n${URL}" (at 107 91) (layer "F.SilkS") (tstamp b6e897bb-f65c-4021-a83b-b7ace4e3275c)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left))
-  )
-  (gr_text "TODO:\n\nShould back panel cutouts be changed to circles for power DIN connectors?" (at 114.5 23.75) (layer "Cmts.User") (tstamp 7d876fc0-a9fd-4c9b-a000-f53b3e97d8e2)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 6f4ee8a9-ab22-4c4e-a83c-4f772456d814)
