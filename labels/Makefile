@@ -1,4 +1,4 @@
-FOOTPRINTS = mini-din-3.kicad_mod mini-din-4.kicad_mod input_label.kicad_mod output_label.kicad_mod unbal2bal.kicad_mod
+FOOTPRINTS = power-din-3.kicad_mod power-din-4.kicad_mod mini-din-3.kicad_mod mini-din-4.kicad_mod input_label.kicad_mod output_label.kicad_mod unbal2bal.kicad_mod
 
 all: $(FOOTPRINTS)
 
